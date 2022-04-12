@@ -1,3 +1,19 @@
+
+# GeoJson Viewer using react
+
+![](https://raw.githubusercontent.com/funakoshiapi/GeoJsonViewer/main/geoviewer.PNG)
+
+# What is it for?
+
+- A tool to visualize geojson using google maps api
+
+# Tecnologies used 
+ - react.js
+ - bootstrap
+ - polylabel (https://blog.mapbox.com/a-new-algorithm-for-finding-a-visual-center-of-a-polygon-7c77e6492fbc)
+ - google maps
+ 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
