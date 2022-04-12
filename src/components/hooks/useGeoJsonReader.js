@@ -14,7 +14,7 @@ export default function useGeoJsonReader() {
 
       if (type === 'Polygon') {
         coordinates.forEach((elementArr) => {
-          elementArr.map((coordinate) => {
+          var ele = elementArr.map((coordinate) => {
             coordArr.push({ lat: coordinate[1], lng: coordinate[0] });
           })
 
